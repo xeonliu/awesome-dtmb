@@ -60,6 +60,8 @@ Everything you need to know about DTMB(Digital Terrestrial Multimedia Broadcast)
         - Linux Driver
     - Clients
 
+- CH1 第一波道
+
 ### 电视
 
 ### 数字电视机顶盒
@@ -109,10 +111,14 @@ Everything you need to know about DTMB(Digital Terrestrial Multimedia Broadcast)
 
 ## 开发资源
 
-- [OpenAVS](https://sourceforge.net/projects/openavs/): AVS1-P2解码器的开源实现
-- [xavs](https://xavs.sourceforge.net/): AVS1-P2/AVS1-P8编解码器的开源实现
-- []: AVS2的开源实现
-- []: AVS3的开源实现
+- [OpenAVS](https://sourceforge.net/projects/openavs/) - AVS1-P2解码器的开源实现
+- [xavs](https://xavs.sourceforge.net/) - AVS1-P2/AVS1-P8编解码器的开源实现
+- [xavs2](https://github.com/pkuvcl/xavs2) - 北京大学 AVS2 编码器的开源实现
+- [davs2](https://github.com/pkuvcl/davs2) - 北京大学 AVS2 解码器的开源实现
+- [uavs3e](https://github.com/uavs3/uavs3e) - AVS3 encoder which supports AVS3-P2 baseline profile.
+- [uavs3d](https://github.com/uavs3/uavs3d) - AVS3 decoder which supports AVS3-P2 baseline profile.
+
+> 截至目前（2026年2月），没有以开源协议发布的 AVS1-P16 实现。
 
 - [avs2_avs3_test_video](https://gitee.com/zhengtianbo/avs2_avs3_test_video): 提供AVS2和AVS3编码的测试文件
 
