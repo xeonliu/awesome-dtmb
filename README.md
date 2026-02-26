@@ -89,8 +89,7 @@ Everything you need to know about DTMB(Digital Terrestrial Multimedia Broadcast)
 ## 软件工具
 
 - [AltDVB](): 用户开发的DVB兼容电视接收软件
-- [DVB Blast]: a simple and powerful MPEG-2/TS demux and streaming application.
-- [hys]
+- [hysAnalyser](https://github.com/zymill/hysAnalyser/) - 专业 MPEG-TS 数据分析和转换工具 
 
 ### 播放器
 - [VLC Media Player with AVS/AVS+ and DRA support](): 社区改进的VLC播放器，支持AVS+视频解码
