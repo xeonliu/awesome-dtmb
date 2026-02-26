@@ -32,7 +32,8 @@ Everything you need to know about DTMB(Digital Terrestrial Multimedia Broadcast)
 ### 音频标准
 
 - MPEG-1
-- DRA
+- DRA (GB/T 22726-2008 多声道数字音频编解码技术规范)
+    - [Specification for multichannel digital audio coding technology](https://openstd.samr.gov.cn/bzgk/gb/newGbInfo?hcno=824F2100959498D71AD5345FD1018364)
 
 ## 硬件接收设备
 
