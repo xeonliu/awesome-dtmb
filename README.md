@@ -12,15 +12,18 @@ Everything you need to know about DTMB(Digital Terrestrial Multimedia Broadcast)
 
 [数字音视频编解码技术标准工作组资料下载]https://www.avs.org.cn/index.php/index/list?catid=7
 
-- AVS (CAVS / AVS1-P2 / AVS JiZhun / 基准类 / GB/T 20090.2—2006)
-    - 《信息技术 先进音视频编码 第2部分：视频》
+- AVS (CAVS / AVS1-P2 / AVS JiZhun / 基准类 / GB/T 20090.2—2006 / GB/T 20090. 2—2013)
+    - [《信息技术 先进音视频编码 第2部分：视频》](https://openstd.samr.gov.cn/bzgk/gb/newGbInfo?hcno=AD0D3FA994651694F95F9E1364B88193)
 
-- AVS+ (AVS1-P16 / AVS Guangdian / 基准类和广播类 / GY/T257.1-2012)
+- AVS+ (AVS1-P16 / AVS Guangdian / 广播类 / GB/T 20090.16-2016)
+    - [《信息技术 先进音视频编码 第16部分：广播电视视频》](https://openstd.samr.gov.cn/bzgk/std/newGbInfo?hcno=1D4AC2D4256C8DE7E0AA286CA7649300)
 
 > [AVS与AVS+的对比](https://blog.csdn.net/weixin_43360707/article/details/131128946)
 
-- AVS2
-- AVS3
+- AVS2 (GB/T 33475.2-2016 GB/T 33475.2-2024 信息技术 高效多媒体编码 第2部分：视频)
+    - [《信息技术 高效多媒体编码 第2部分：视频》](https://openstd.samr.gov.cn/bzgk/gb/newGbInfo?hcno=C23145CA7C18AC718FDE2589AC626D6E&refer=outter)
+- AVS3 (GY/T 368-2023 先进高效视频编码)
+    - [《先进高效视频编码》](https://www.nrta.gov.cn/art/2023/8/30/art_3715_65407.html)
 - HEVC
 - Vivid HDR
 
@@ -87,8 +90,8 @@ Everything you need to know about DTMB(Digital Terrestrial Multimedia Broadcast)
 
 ## 开发资源
 
-- [OpenAVS](https://sourceforge.net/projects/openavs/): AVS-P2解码器的开源实现
-- [xavs](https://xavs.sourceforge.net/): AVS-P2编解码器的开源实现
+- [OpenAVS](https://sourceforge.net/projects/openavs/): AVS1-P2解码器的开源实现
+- [xavs](https://xavs.sourceforge.net/): AVS1-P2/AVS1-P8编解码器的开源实现
 - []: AVS2的开源实现
 - []: AVS3的开源实现
 
