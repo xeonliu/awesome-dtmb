@@ -107,7 +107,7 @@ Everything you need to know about DTMB(Digital Terrestrial Multimedia Broadcast)
 
 ## 频道与频率数据
 
-- 各省市地面波频率表
+- [中国地面波数字电视接收参数](http://dtmb.saoing.com/) - 由爱好者维护的各省市自治区直辖市（包括港澳台）的地面波数字电视接收频率
 
 ## 开发资源
 
