@@ -21,7 +21,7 @@ Everything you need to know about DTMB(Digital Terrestrial Multimedia Broadcast)
 > [AVS与AVS+的对比](https://blog.csdn.net/weixin_43360707/article/details/131128946)
 
 - AVS2 (GB/T 33475.2-2016 GB/T 33475.2-2024 信息技术 高效多媒体编码 第2部分：视频)
-    - [《信息技术 高效多媒体编码 第2部分：视频》](https://openstd.samr.gov.cn/bzgk/gb/newGbInfo?hcno=C23145CA7C18AC718FDE2589AC626D6E&refer=outter)
+    - [《信息技术 高效多媒体编码 第2部分：视频》](https://openstd.samr.gov.cn/bzgk/gb/newGbInfo?hcno=C23145CA7C18AC718FDE2589AC626D6E)
 - AVS3 (GY/T 368-2023 先进高效视频编码)
     - [《先进高效视频编码》](https://www.nrta.gov.cn/art/2023/8/30/art_3715_65407.html)
 - HEVC
