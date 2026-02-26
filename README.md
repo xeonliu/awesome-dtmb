@@ -25,7 +25,9 @@ Everything you need to know about DTMB(Digital Terrestrial Multimedia Broadcast)
 - AVS3 (GY/T 368-2023 先进高效视频编码)
     - [《先进高效视频编码》](https://www.nrta.gov.cn/art/2023/8/30/art_3715_65407.html)
 - HEVC
-- Vivid HDR
+- HDR Vivid (GY/T 358—2022 高动态范围电视系统显示适配元数据技术要求)
+- Audio Vivid (ITU-R BS.2493-1 Annex 4 Application of the Audio Vivid format)
+    - [ITU-R BS.2493-1](https://www.itu.int/dms_pub/itu-r/opb/rep/R-REP-BS.2493-1-2024-PDF-E.pdf)
 
 ### 音频标准
 
