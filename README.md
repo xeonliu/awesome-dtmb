@@ -3,37 +3,53 @@ Everything you need to know about DTMB(Digital Terrestrial Multimedia Broadcast)
 
 ## 标准与协议
 
-- [GB 20600-2006 数字电视地面广播传输系统帧结构、信道编码和调制](https://openstd.samr.gov.cn/bzgk/gb/newGbInfo?hcno=41F48525779777A75F0898B87E9BD24E)
-- [MPEG-TS ISO/IEC 13818-1:2025](https://www.iso.org/standard/91403.html)
+- [DTMB 标准](https://openstd.samr.gov.cn/bzgk/gb/newGbInfo?hcno=41F48525779777A75F0898B87E9BD24E) - GB 20600-2006 《数字电视地面广播传输系统帧结构、信道编码和调制》
+- [MPEG-TS 标准](https://www.iso.org/standard/91403.html) -  ISO/IEC 13818-1:2025
 
 ### 视频标准
 
 #### AVS
 
-[数字音视频编解码技术标准工作组资料下载]https://www.avs.org.cn/index.php/index/list?catid=7
+[AVS 官方网站](https://www.avs.org.cn/index.php/index/list?catid=7) - 数字音视频编解码技术标准工作组 资料下载
 
-- AVS (CAVS / AVS1-P2 / AVS JiZhun / 基准类 / GB/T 20090.2—2006 / GB/T 20090. 2—2013)
+- AVS (CAVS / AVS1-P2 / AVS JiZhun / 基准类)
+    - 现行国家标准 GB/T 20090. 2—2013
     - [《信息技术 先进音视频编码 第2部分：视频》](https://openstd.samr.gov.cn/bzgk/gb/newGbInfo?hcno=AD0D3FA994651694F95F9E1364B88193)
 
-- AVS+ (AVS1-P16 / AVS Guangdian / 广播类 / GB/T 20090.16-2016)
+- AVS+ (AVS1-P16 / AVS Guangdian / 广播类)
+    - 现行国家标准 GB/T 20090.16-2016
     - [《信息技术 先进音视频编码 第16部分：广播电视视频》](https://openstd.samr.gov.cn/bzgk/std/newGbInfo?hcno=1D4AC2D4256C8DE7E0AA286CA7649300)
 
-> [AVS与AVS+的对比](https://blog.csdn.net/weixin_43360707/article/details/131128946)
-
-- AVS2 (GB/T 33475.2-2016 GB/T 33475.2-2024 信息技术 高效多媒体编码 第2部分：视频)
+- AVS2 - 用于传输 4K 超高清节目
+    - 现行国家标准 GB/T 33475.2-2024
     - [《信息技术 高效多媒体编码 第2部分：视频》](https://openstd.samr.gov.cn/bzgk/gb/newGbInfo?hcno=C23145CA7C18AC718FDE2589AC626D6E)
-- AVS3 (GY/T 368-2023 先进高效视频编码)
+
+- AVS3 - 用于传输 8K 超高清节目
+    - 现行行业标准 GY/T 368-2023
     - [《先进高效视频编码》](https://www.nrta.gov.cn/art/2023/8/30/art_3715_65407.html)
-- HEVC
-- HDR Vivid (GY/T 358—2022 高动态范围电视系统显示适配元数据技术要求)
-- Audio Vivid (ITU-R BS.2493-1 Annex 4 Application of the Audio Vivid format)
-    - [ITU-R BS.2493-1](https://www.itu.int/dms_pub/itu-r/opb/rep/R-REP-BS.2493-1-2024-PDF-E.pdf)
+
+#### HDR
+
+- HDR Vivid
+    - 现行行业标准 GY/T 358—2022
+    - 《高动态范围电视系统显示适配元数据技术要求》
+
+#### 其余标准
+- MPEG-2 (H.262)
+- AVC (H.264)
+- HEVC (H.265)
+- VVC (H.266)
 
 ### 音频标准
 
 - MPEG-1
-- DRA (GB/T 22726-2008 多声道数字音频编解码技术规范)
-    - [Specification for multichannel digital audio coding technology](https://openstd.samr.gov.cn/bzgk/gb/newGbInfo?hcno=824F2100959498D71AD5345FD1018364)
+
+- DRA
+    - 现行国家标准 GB/T 22726-2008
+    - [《多声道数字音频编解码技术规范》](https://openstd.samr.gov.cn/bzgk/gb/newGbInfo?hcno=824F2100959498D71AD5345FD1018364)
+
+- Audio Vivid - 菁彩三维声
+    - [ITU-R BS.2493-1 Annex 4](https://www.itu.int/dms_pub/itu-r/opb/rep/R-REP-BS.2493-1-2024-PDF-E.pdf)
 
 ## 硬件接收设备
 
@@ -101,6 +117,8 @@ Everything you need to know about DTMB(Digital Terrestrial Multimedia Broadcast)
 - [avs2_avs3_test_video](https://gitee.com/zhengtianbo/avs2_avs3_test_video): 提供AVS2和AVS3编码的测试文件
 
 - [让TSCutter.GUI支持解码AVS+(AVS1-P16)编码的TS文件](https://github.com/nilaoda/Blog/discussions/87)
+
+- [AVS与AVS+的对比](https://blog.csdn.net/weixin_43360707/article/details/131128946)
 
 ## 社区论坛
 
