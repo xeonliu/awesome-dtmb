@@ -133,6 +133,4 @@ Everything you need to know about DTMB(Digital Terrestrial Multimedia Broadcast)
 
 ## 社区论坛
 
-- 中文寻星论坛
-
-- 
+- [中文寻星论坛](https://bbs.asiadvb.net/forum.php)
