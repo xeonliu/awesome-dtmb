@@ -116,6 +116,7 @@ Everything you need to know about DTMB(Digital Terrestrial Multimedia Broadcast)
 - [davs2](https://github.com/pkuvcl/davs2) - 北京大学 AVS2 解码器的开源实现
 - [uavs3e](https://github.com/uavs3/uavs3e) - AVS3 encoder which supports AVS3-P2 baseline profile.
 - [uavs3d](https://github.com/uavs3/uavs3d) - AVS3 decoder which supports AVS3-P2 baseline profile.
+- [DRA-Audio-System](https://github.com/tianyigeng/DRA-Audio-System) - DRA 编解码器的开源实现
 
 > 截至目前（2026年2月），没有以开源协议发布的 AVS1-P16 实现。
 >
