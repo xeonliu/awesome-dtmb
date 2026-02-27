@@ -118,6 +118,10 @@ Everything you need to know about DTMB(Digital Terrestrial Multimedia Broadcast)
 - [uavs3d](https://github.com/uavs3/uavs3d) - AVS3 decoder which supports AVS3-P2 baseline profile.
 
 > 截至目前（2026年2月），没有以开源协议发布的 AVS1-P16 实现。
+>
+> - https://lists.ffmpeg.org/archives/list/ffmpeg-devel@ffmpeg.org/thread/PR76B6WXNRSDUFC7NWXXBC5SNXLUHNHT/#LTGO6KIURYEDLMVIVBCD6QPWPMFOUN4E
+> - https://github.com/intel/libva/pull/738/changes
+> - Moore Threads, have finished Chinese AVS&AVS2 hwaccel decoding under FFMpeg-VAAPI framework. All their public products, MTT S10/MTT S50/MTT S80/MTT S2000/... support AVS&AVS+ decoding at max 2K and support AVS2 Main&Main10 decoding at max 8K.
 
 - [avs2_avs3_test_video](https://gitee.com/zhengtianbo/avs2_avs3_test_video): 提供AVS2和AVS3编码的测试文件
 
