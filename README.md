@@ -88,12 +88,13 @@ Everything you need to know about DTMB(Digital Terrestrial Multimedia Broadcast)
 
 ## 软件工具
 
-- [AltDVB](): 用户开发的DVB兼容电视接收软件
-- [hysAnalyser](https://github.com/zymill/hysAnalyser/) - 专业 MPEG-TS 数据分析和转换工具 
+- [AltDVB](https://www.altx.ro/projects/altdvb/): 罗马尼亚开发者开发的DVB兼容电视接收软件
+- [hysAnalyser](https://github.com/zymill/hysAnalyser/) - 专业 MPEG-TS 数据分析和转换工具，支持 AVS1-P2, AVS1-P16, AVS2, AVS3 视频的解码。
 
 ### 播放器
-- [VLC Media Player with AVS/AVS+ and DRA support](): 社区改进的VLC播放器，支持AVS+视频解码
-- [VLC 3.0.11.1 with AVS3-AVS2-CAVS](https://gitee.com/zhengtianbo/VLC3-AVS3AVS2CAVS): zhengtianbo 为 VLC3.0.11.1 添加AVS,AVS2,AVS3支持。提供基于VLC和ffmpeg的两种修改方案。
+- [VLC 2.2.6 with AVS/AVS+ and DRA support](https://gitcode.com/open-source-toolkit/b2eba): 社区改进的 VLC 播放器，支持 AVS1-P16 视频解码和 DRA 音频解码
+- [VlcAvsDra](https://github.com/zuifengjianke/VlcAvsDra): 安卓版本的 VLC 播放器，支持 AVS1-P16 视频解码和 DRA 音频解码
+- [VLC 3.0.11.1 with AVS3-AVS2-CAVS](https://gitee.com/zhengtianbo/VLC3-AVS3AVS2CAVS): zhengtianbo开发的VLC播放器，支持AVS1-P2, AVS2, AVS3，提供基于VLC和ffmpeg的两种修改方案。
 - [MPC-HC with AVS3-AVS2-CAVS](https://gitee.com/zhengtianbo/cavs-avs2-avs3_decoder_added_to_mpc_hc): zhengtianbo修改的MPC-HC，添加AVS, AVS2, AVS3 支持
 
 ### 解码滤镜
