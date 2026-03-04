@@ -63,6 +63,12 @@ Everything you need to know about DTMB(Digital Terrestrial Multimedia Broadcast)
 
 - CH1 第一波道
 
+- TBS5210 DTMB TV Tuner USB Box
+
+### PCI-E
+
+- TBS6514 DTMB Quad Tuner PCI-E Card
+
 ### 电视
 
 2015年后国内生产的电视大都支持。
