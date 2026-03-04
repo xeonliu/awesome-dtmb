@@ -64,6 +64,7 @@ Everything you need to know about DTMB(Digital Terrestrial Multimedia Broadcast)
 - CH1 第一波道
 
 - TBS5210 DTMB TV Tuner USB Box
+- https://www.tbsiptv.com/download/tbs5210/TBS5210-DTMB-USB-user_guide.pdf
 
 ### PCI-E
 
