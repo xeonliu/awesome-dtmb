@@ -169,11 +169,8 @@ LGS-8G75	2009年	针对大城市复杂楼宇反射环境优化的解调算法，
 - [uavs3d](https://github.com/uavs3/uavs3d) - AVS3 decoder which supports AVS3-P2 baseline profile.
 - [DRA-Audio-System](https://github.com/tianyigeng/DRA-Audio-System) - DRA 编解码器的开源实现
 
-> 截至目前（2026年2月），没有以开源协议发布的 AVS1-P16 实现。
->
-> - https://lists.ffmpeg.org/archives/list/ffmpeg-devel@ffmpeg.org/thread/PR76B6WXNRSDUFC7NWXXBC5SNXLUHNHT/#LTGO6KIURYEDLMVIVBCD6QPWPMFOUN4E
-> - https://github.com/intel/libva/pull/738/changes
-> - Moore Threads, have finished Chinese AVS&AVS2 hwaccel decoding under FFMpeg-VAAPI framework. All their public products, MTT S10/MTT S50/MTT S80/MTT S2000/... support AVS&AVS+ decoding at max 2K and support AVS2 Main&Main10 decoding at max 8K.
+- AVS+ Support for [FFmpeg](https://lists.ffmpeg.org/archives/list/ffmpeg-devel@ffmpeg.org/thread/PR76B6WXNRSDUFC7NWXXBC5SNXLUHNHT/#LTGO6KIURYEDLMVIVBCD6QPWPMFOUN4E) with [VAAPI](https://github.com/intel/libva/pull/738/changes) by Moore Threads
+    - Moore Threads, have finished Chinese AVS&AVS2 hwaccel decoding under FFMpeg-VAAPI framework. All their public products, MTT S10/MTT S50/MTT S80/MTT S2000/... support AVS&AVS+ decoding at max 2K and support AVS2 Main&Main10 decoding at max 8K.
 
 - [avs2_avs3_test_video](https://gitee.com/zhengtianbo/avs2_avs3_test_video): 提供AVS2和AVS3编码的测试文件
 
