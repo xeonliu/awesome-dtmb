@@ -155,6 +155,7 @@ LGS-8G75	2009年	针对大城市复杂楼宇反射环境优化的解调算法，
 ### 转码与流媒体处理
 
 - [zhengtianbo/FFmpeg-avs2-avs3](https://gitee.com/zhengtianbo/FFmpeg-avs2-avs3): 添加了AVS2与AVS3支持的FFmpeg
+- [xeonliu/FFmpeg-AVS-Builds](https://github.com/xeonliu/FFmpeg-AVS-Builds/releases/tag/latest): 添加了AVS+/AVS2/AVS3解码支持的FFmpeg
 
 
 ## 频道与频率数据
