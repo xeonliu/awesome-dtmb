@@ -136,6 +136,8 @@ LGS-8G75	2009年	针对大城市复杂楼宇反射环境优化的解调算法，
 
 ### Android
 
+- [DTV Viewer](https://afdian.com/a/liyugg): DTV Viewer内置多个主流型号的USB电视接收器驱动，支持数字电视协议有DTMB、DVB-C，DVB-T2，还兼模拟电视Analog television的各种制式，例如：PAL、SECAM、NTSC、STD等。硬件上可适配Aigo U视棒DT5236、CVB、乐视、CH1第一波道 LME2510C等USB电视接收器。
+
 ## 软件工具
 
 - [AltDVB](https://www.altx.ro/projects/altdvb/): 罗马尼亚开发者开发的DVB兼容电视接收软件
