@@ -88,6 +88,7 @@ Everything you need to know about DTMB(Digital Terrestrial Multimedia Broadcast)
 > RTL-SDR 因为带宽过窄无法使用，Airspy HF+ 因为频率无法覆盖无法使用 
 
 - [SDR Play RSP](https://sdrplay.com/hardware-api/) - 较为廉价的 SDR 方案
+- [dtmb-sdr](https://github.com/ningzichun/dtmb-sdr/) - dtmb-sdr receives DTMB digital television from raw I/Q samples and writes an MPEG transport stream (MPEG-TS).
 - [OnAir](https://github.com/adswill/OnAir) - 提供了 DTMB 的解码支持
 
 ### 天线
