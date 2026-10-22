@@ -85,6 +85,10 @@ Everything you need to know about DTMB(Digital Terrestrial Multimedia Broadcast)
 
 ### SDR
 
+> RTL-SDR 因为频道过窄无法使用
+
+- [OnAir](https://github.com/adswill/OnAir) - 提供了 DTMB 的解码支持
+
 ### 天线
 
 ### 解调器芯片
